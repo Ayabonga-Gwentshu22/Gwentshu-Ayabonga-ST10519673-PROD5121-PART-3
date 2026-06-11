@@ -4,7 +4,7 @@ QuickChat is a Java-based messaging system that allows users to:
 - Send, store, or disregard messages
 - Generate message IDs and hashes
 - Store messages using parallel arrays
-- Search, delete, and display message reports
+- Search, delete, and display message reports.
 
 The system demonstrates the use of:
 - Object-Oriented Programming (OOP)
